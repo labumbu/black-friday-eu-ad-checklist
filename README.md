@@ -2,7 +2,7 @@
 
 What to change in a short video ad (TikTok, Reels, Shorts) before it runs in each market. One page. Built from public data and from what we flag when [Quelta](https://quelta.ai/?utm_source=linkedin&utm_medium=asset&utm_campaign=1019-eu-checklist) reviews an ad for a specific country.
 
-Black Friday 2026 is on 27 November. Most Q4 creative is being made in October.
+Black Friday 2026 is on 27 November. The Q4 creative is being made now.
 
 ## Every market: 7 checks
 
@@ -19,18 +19,18 @@ Black Friday 2026 is on 27 November. Most Q4 creative is being made in October.
 - **Shoppers check prices.** Idealo compared 10,000+ products: Black Friday 2024 prices were on average 7% below October, and only 1 in 10 products was 20% or more off. Show the real before and after price, not just a percent.
 - **Spending is cooling.** The German retail federation HDE expected €5.8B for Black Friday and Cyber Monday 2025, down 2% on the year before.
 - **Pick *du* or *Sie*** and keep it the same in the ad, on the page and at checkout.
-- **This is where English ads end up.** In our October Meta Ad Library check, 48 of 124 DTC brands selling mostly into non-English Europe wrote every ad in English. Germany was the top market for 37 of them.
+- **This is where English ads end up.** In our October Meta Ad Library check, 48 of 124 DTC brands selling mostly into non-English Europe wrote every ad in English. Germany was one of the top markets for 37 of them.
 
 ## France
 
 - **French law.** The Loi Toubon (Law 94-665 of 4 August 1994) requires advertising aimed at French consumers to be in French. A slogan in another language needs a French translation that is just as legible.
 - **Shoppers plan for it.** 77% of French shoppers took part in Black Friday 2025, 75% hold back purchases to wait for it, and 72% see it as a chance to shop smart.
 - **So frame the deal as the smart buy:** the real saving, the bundle, the reason it's worth it now.
-- **English ads land here too:** France was a top market for 31 of the 48 English-only brands.
+- **English ads land here too:** France was one of the top markets for 31 of the 48 English-only brands.
 
 ## Italy
 
-- **English ads land here too:** Italy was a top market for 30 of the 48 English-only brands in our check.
+- **English ads land here too:** Italy was one of the top markets for 30 of the 48 English-only brands in our check.
 - **Run all 7 checks above with an Italian speaker:** voice, on-screen text, price format, the call to action.
 
 ## Spain

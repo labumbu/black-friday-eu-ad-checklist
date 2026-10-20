@@ -40,7 +40,7 @@ Black Friday 2026 is on 27 November. The Q4 creative is being made now.
 
 ## Check before you spend
 
-Quelta reviews a vertical video ad for a specific platform, country and audience age: a 0–100 score, every mistake with a timecode, and the first fix. Free, 5 a day, no sign-up: [quelta.ai](https://quelta.ai/?utm_source=linkedin&utm_medium=asset&utm_campaign=1019-eu-checklist)
+Quelta scores a vertical video ad 0–100 for a specific country and audience, explains what's weak (the hook, the on-screen text, the visuals) and makes the fixed version for that market in one click: [quelta.ai](https://quelta.ai/?utm_source=linkedin&utm_medium=asset&utm_campaign=1019-eu-checklist)
 
 ## Sources
 
